@@ -24,6 +24,3 @@ yarn-error.log*
 
 .env
 
-
-
-// export const GEMINI_URL = "AIzaSyDru0gDU_3JTLKU1JEiib2WOlfZkedvIPc";
